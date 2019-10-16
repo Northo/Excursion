@@ -17,3 +17,8 @@ The sick green mountains surrounded by turquoise water.
 - Ninh binh /Tam coc (suggestion from Dompi)
 ![Image of ninh binh](./images/NinhBinh.jpg)
 ![Map of ninh binh](./images/NinhBinh_map.png)
+
+### Activities - Vietnam
+<ul>
+    <li>Deep water solo</li>
+</ul>

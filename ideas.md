@@ -25,6 +25,7 @@ The sick green mountains surrounded by turquoise water.
 # Malaysia
 ## Places 
 - The stairs
+![Map of the stairs](./images/stairs_map.png)
 
 # Random
 ## Random idea list:

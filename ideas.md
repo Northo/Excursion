@@ -28,4 +28,4 @@ The sick green mountains surrounded by turquoise water.
 
 # Random
 ## Random idea list:
- - Leie scootere
+ - Rent scooters

@@ -1,2 +1,2 @@
 # Excursion
-Kaprests' and Northo's excursion 2019
+@kaprests' and @northo's excursion 2019

@@ -1,7 +1,7 @@
 # File for brainstorming and generally just writing down ideas
 
+# Vietnam
 ## Places 
-### Vietnam
 - Ha Long bay
 The sick green mountains surrounded by turquoise water.
 ![Image of Ha Long bay](http://static.asiawebdirect.com/m/bangkok/portals/vietnam/shared/teasersL/ha-long-bay/ha-long-bay-tours/ha-long-bay-multiday-tours/teaserMultiLarge/imageHilight/teaser.jpeg.jpg)
@@ -18,13 +18,14 @@ The sick green mountains surrounded by turquoise water.
 ![Image of ninh binh](./images/NinhBinh.jpg)
 ![Map of ninh binh](./images/NinhBinh_map.png)
 
-### Activities - Vietnam
-<ul>
-    <li>Deep water solo</li>
-</ul>
 
+## Activities
+ - Deep water solo
 
+# Malaysia
+## Places 
+- The stairs
+
+# Random
 ## Random idea list:
-<ul>
-    <li>Leie scootere</li>
-</ul>
+ - Leie scootere

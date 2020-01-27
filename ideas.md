@@ -14,19 +14,17 @@
 
 # Calendar
 
-Day | Country
+Day | Place
 ----|--------
-Saturday|
-Sunday|
--------
-Monday|
+Saturday| Tokyo
+Sunday| Tokyo -> Fuji
+Monday| Fuji -> Kyoto
 Tuesday|
 Wednesday|
 Thursday|
 Friday|
 Saturday|
 Sunday|
-----
 Monday|
 Tuesday|
 Wednesday|

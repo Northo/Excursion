@@ -31,7 +31,7 @@ Wednesday|
 Thursday|
 Friday|
 Saturday|
-Sunday|
+Sunday| Norway
 
 # Sicko idea from Henko
 Plane to Seoul after Japan, together with Alex, before Vietnam.

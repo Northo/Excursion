@@ -12,6 +12,29 @@
     + 
 * 
 
+# Calendar
+
+Day | Country
+----|--------
+Saturday|
+Sunday|
+-------
+Monday|
+Tuesday|
+Wednesday|
+Thursday|
+Friday|
+Saturday|
+Sunday|
+----
+Monday|
+Tuesday|
+Wednesday|
+Thursday|
+Friday|
+Saturday|
+Sunday|
+
 # Sicko idea from Henko
 Plane to Seoul after Japan, together with Alex, before Vietnam.
 
@@ -68,4 +91,7 @@ The sick green mountains surrounded by turquoise water.
 
 # Quotes
 > "Det er like mye å gjøre der som alle andre land" 
->- Henko om Korea
+> -Henko om Korea
+
+> "Når du flyr vestoer, flyr du bakover i tid"
+> -Henko om fly til Norge

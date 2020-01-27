@@ -21,9 +21,9 @@ Sunday| Tokyo -> Fuji
 Monday| Fuji -> Kyoto
 Tuesday|
 Wednesday| -> Vietnam
-Thursday|
-Friday|
-Saturday| Alex has to be in Seoul
+Thursday| Brownian motion with scooter
+Friday| Ha long bay?
+Saturday| Alex has to be in Seoul, godspeed.
 Sunday|
 Monday|
 Tuesday|

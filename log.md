@@ -1,10 +1,11 @@
 # Log
 ## Jan. 27 2020
 Since last meeting, @pantherliiy and @alexarntzen has joined.
-Began day-by-day timetable
-Decided to stay in Japan for some time
+Began day-by-day timetable.
+Decided to stay in Japan for some time.
 
 **Forward:**
+
 Buy plane tickets
 
 ## Oct. 16 2019

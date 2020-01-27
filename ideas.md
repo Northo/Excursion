@@ -23,7 +23,7 @@ Tuesday|
 Wednesday|
 Thursday|
 Friday|
-Saturday|
+Saturday| Alex has to be in Seoul
 Sunday|
 Monday|
 Tuesday|

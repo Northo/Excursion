@@ -68,4 +68,4 @@ The sick green mountains surrounded by turquoise water.
 
 # Quotes
 > "Det er like mye å gjøre der som alle andre land" 
-- Henko om Korea
+>- Henko om Korea

@@ -1,4 +1,12 @@
 # File for brainstorming and generally just writing down ideas
+# Japan
+We have hostell in Tokyo until Sunday.
+
+Places in Japan we want to wisit:
+
+* Fuji san (Mount fuji)
+![Mount fuji](https://d36tnp772eyphs.cloudfront.net/blogs/1/2018/08/Mount-Fuji.jpg)
+* Kyoto -- Castle
 
 # Vietnam
 ## Places 

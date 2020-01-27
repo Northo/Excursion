@@ -20,7 +20,7 @@ Saturday| Tokyo
 Sunday| Tokyo -> Fuji
 Monday| Fuji -> Kyoto
 Tuesday|
-Wednesday|
+Wednesday| -> Vietnam
 Thursday|
 Friday|
 Saturday| Alex has to be in Seoul

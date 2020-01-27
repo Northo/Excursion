@@ -8,6 +8,12 @@
     + Chill in hotspring, with view of Mount Fuji (sunset 1827)
     + Beer in hand (alternatively sake)
 * Monday morning: Supertrain to Kyoto
+    + Visit castle
+    + 
+* 
+
+# Sicko idea from Henko
+Plane to Seoul after Japan, together with Alex, before Vietnam.
 
 # Japan
 We have hostell in Tokyo until Sunday.
@@ -58,3 +64,8 @@ The sick green mountains surrounded by turquoise water.
 # Random
 ## Random idea list:
  - Rent scooters
+
+
+# Quotes
+> "Det er like mye å gjøre der som alle andre land" 
+- Henko om Korea

@@ -1,12 +1,26 @@
 # File for brainstorming and generally just writing down ideas
+# Timetable
+
+* Until saturday: Tokyo
+* Sunday morning: Supertrain too Fuji San
++ Find hostell
++ Grabs for the grams
++ Chill in hotspring, with view of Mount Fuji (sunset 1827)
++ Beer in hand (alternatively sake)
+* Monday morning: Supertrain to Kyoto
+
 # Japan
 We have hostell in Tokyo until Sunday.
 
 Places in Japan we want to wisit:
 
-* Fuji san (Mount fuji)
+## Fuji san (Mount fuji)
 ![Mount fuji](https://d36tnp772eyphs.cloudfront.net/blogs/1/2018/08/Mount-Fuji.jpg)
-* Kyoto -- Castle
+
+* Hotspring
+
+
+## Kyoto -- Castle
 ![Castle](https://cdn.thecrazytourist.com/wp-content/uploads/2018/05/ccimage-shutterstock_776730046.jpg)
 ![Map](./images/TokyoKyoto.png)
 

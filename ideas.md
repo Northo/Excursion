@@ -3,10 +3,10 @@
 
 * Until saturday: Tokyo
 * Sunday morning: Supertrain too Fuji San
- + Find hostell
- + Grabs for the grams
- + Chill in hotspring, with view of Mount Fuji (sunset 1827)
- + Beer in hand (alternatively sake)
+    + Find hostell
+    + Grabs for the grams
+    + Chill in hotspring, with view of Mount Fuji (sunset 1827)
+    + Beer in hand (alternatively sake)
 * Monday morning: Supertrain to Kyoto
 
 # Japan

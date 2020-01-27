@@ -80,6 +80,7 @@ The sick green mountains surrounded by turquoise water.
 # Malaysia
 ## Places 
 - The stairs
+![The stairs](./images/the_stairs.jpg)
 ![Map of the stairs](./images/stairs_map.png)
 
 # Random

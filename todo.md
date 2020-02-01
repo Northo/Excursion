@@ -10,3 +10,5 @@ List of tasks that must be completed before the trip
   - [ ] Decide on sleeping conditions (Hammock etc.)
   - [ ] Vaccines
 - [ ] Buy airplane tickets
+  - [x] Osaka - Hanoi
+  - [ ] Hanoi - Kula Lumpur

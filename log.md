@@ -1,6 +1,10 @@
 # Log
+## Feb. 1 2020
+Present: @pantherlily and @northo.
+Ate cookies, ate pizza, ate chocolate, and ordered flight tickets Osaka - Hanoi.
+
 ## Jan. 27 2020
-Since last meeting, @pantherliiy and @alexarntzen has joined.
+Since last meeting, @pantherlily and @alexarntzen has joined.
 Began day-by-day timetable.
 Decided to stay in Japan for some time.
 

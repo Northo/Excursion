@@ -14,24 +14,24 @@
 
 # Calendar
 
-Day | Place
-----|--------
-Saturday| Tokyo
-Sunday| Tokyo -> Fuji
-Monday| Fuji -> Kyoto
-Tuesday|
-Wednesday| -> Vietnam
-Thursday| Brownian motion with scooter
-Friday| Ha long bay?
-Saturday| Alex has to be in Seoul, godspeed.
-Sunday|
-Monday|
-Tuesday|
-Wednesday|
-Thursday|
-Friday|
-Saturday|
-Sunday| Norway
+Date | Day | Place
+---|----|--------
+4 | Saturday| Tokyo
+5 | Sunday| Tokyo -> Fuji
+6 | Monday| Fuji -> Kyoto
+7 | Tuesday|
+8 | Wednesday| -> Vietnam
+9 | Thursday| Brownian motion with scooter
+10 | Friday| Ha long bay?
+11 | Saturday| Alex has to be in Seoul, godspeed.
+12 | Sunday|
+13 | Monday|
+14 | Tuesday|
+15 | Wednesday|
+16 | Thursday|
+17 | Friday|
+18 | Saturday| Norway in the night
+19 | Sunday| Norway
 
 # Sicko idea from Henko
 Plane to Seoul after Japan, together with Alex, before Vietnam.

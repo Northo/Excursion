@@ -22,8 +22,8 @@ Date | Day | Place
 7 | Tuesday|
 8 | Wednesday| -> Vietnam
 9 | Thursday| Brownian motion with scooter
-10 | Friday| Ha long bay?
-11 | Saturday| Alex has to be in Seoul, godspeed.
+10 | Friday| Ha long bay?. 
+11 | Saturday| Alex's plane leaves 01.15 (GMT+7) to Seoul, godspeed.
 12 | Sunday|
 13 | Monday|
 14 | Tuesday|

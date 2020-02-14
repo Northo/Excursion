@@ -20,9 +20,9 @@ Date | Day | Place
 5 | Sunday| Tokyo -> Fuji
 6 | Monday| Fuji -> Kyoto
 7 | Tuesday|
-8 | Wednesday| -> Vietnam
-9 | Thursday| Brownian motion with scooter
-10 | Friday| Ha long bay?. 
+8 | Wednesday| -> Vietnam, Brownian motion with scooter
+9 | Thursday| Ha long bay?. 
+10 | Friday| ???
 11 | Saturday| Alex's plane leaves 01.15 (GMT+7) to Seoul, godspeed.
 12 | Sunday|
 13 | Monday|
